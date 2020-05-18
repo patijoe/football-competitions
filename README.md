@@ -7,8 +7,7 @@
 
 ## Application Structure
 
-All the application is organized with connected README.md files which explains each part 
-separately. Here are the main application folders:
+All the application is organized with connected README.md files which explains each part. Here are the main application folders:
 
 - [node_modules/](./node_modules): Project dependencies and development tools. 
 - [public](./public):
